@@ -1,0 +1,1419 @@
+#clusterID	species	gene	is_seed_ortholog	confidence_score	species_in_cluster	tree_conflict	
+1	0.fa	run65_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	1.fa	run65_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	1.fa	run65_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	2.fa	run65_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	3.fa	run65_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	4.fa	run65_G12_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	4.fa	run65_G11_5	0	0.733	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	5.fa	run65_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	6.fa	run65_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	7.fa	run65_G20_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	7.fa	run65_G19_11	0	0.074	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	0.fa	run65_G0_0	0	0.189	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+1	1.fa	run65_G1_1	0	0.069	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	0.fa	run87_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	1.fa	run87_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	1.fa	run87_G2_1	0	0.758	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	4.fa	run87_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	5.fa	run87_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	6.fa	run87_G13_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	7.fa	run87_G15_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	3.fa	run87_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	1.fa	run87_G1_1	0	0.703	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+2	2.fa	run87_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	0.fa	run01_G8_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	0.fa	run01_G6_0	0	0.833	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	1.fa	run01_G12_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	1.fa	run01_G11_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	2.fa	run01_G15_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	3.fa	run01_G18_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	3.fa	run01_G19_4	0	0.969	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	3.fa	run01_G21_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	4.fa	run01_G23_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	5.fa	run01_G25_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	5.fa	run01_G26_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	6.fa	run01_G29_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	7.fa	run01_G31_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	0.fa	run01_G5_0	0	0.784	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	0.fa	run01_G0_0	0	0.353	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	0.fa	run01_G2_0	0	0.176	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	0.fa	run01_G1_0	0	0.157	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+3	2.fa	run01_G16_3	0	0.426	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+4	0.fa	run05_G0_0	0	0.135	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	0.fa	run05_G2_0	0	0.052	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	1.fa	run05_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	2.fa	run05_G16_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	2.fa	run05_G18_3	0	0.426	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	2.fa	run05_G15_3	0	0.255	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	3.fa	run05_G20_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	4.fa	run05_G21_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	5.fa	run05_G23_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	6.fa	run05_G26_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	7.fa	run05_G29_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	7.fa	run05_G30_11	0	0.486	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	0.fa	run05_G7_0	0	0.894	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	0.fa	run05_G8_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+4	0.fa	run05_G1_0	0	0.391	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+5	0.fa	run53_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	1.fa	run53_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	2.fa	run53_G13_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	3.fa	run53_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	3.fa	run53_G15_4	0	0.800	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	4.fa	run53_G17_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	5.fa	run53_G19_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	6.fa	run53_G21_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	7.fa	run53_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	0.fa	run53_G5_0	0	0.767	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	1.fa	run53_G2_1	0	0.763	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	1.fa	run53_G6_1	0	0.505	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	1.fa	run53_G7_1	0	0.505	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+5	1.fa	run53_G9_1	0	0.495	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	0.fa	run24_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	1.fa	run24_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	2.fa	run24_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	3.fa	run24_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	3.fa	run24_G25_4	0	0.117	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	4.fa	run24_G26_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	5.fa	run24_G28_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	4.fa	run24_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	5.fa	run24_G13_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	6.fa	run24_G16_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	6.fa	run24_G15_9	0	0.829	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	6.fa	run24_G31_9	0	0.732	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	6.fa	run24_G30_9	0	0.683	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	7.fa	run24_G35_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	0.fa	run24_G3_0	0	0.453	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	0.fa	run24_G4_0	0	0.137	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+6	1.fa	run24_G6_1	0	0.573	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	0.fa	run09_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	1.fa	run09_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	2.fa	run09_G18_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	2.fa	run09_G16_3	0	0.754	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	2.fa	run09_G20_3	0	0.316	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	2.fa	run09_G15_3	0	0.289	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	3.fa	run09_G22_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	4.fa	run09_G23_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	5.fa	run09_G25_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	6.fa	run09_G27_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	6.fa	run09_G28_9	0	0.850	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	7.fa	run09_G31_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+7	0.fa	run09_G8_0	0	0.561	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+8	0.fa	run79_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+8	1.fa	run79_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+8	2.fa	run79_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+8	3.fa	run79_G4_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+8	4.fa	run79_G5_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+8	5.fa	run79_G7_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+8	6.fa	run79_G9_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+8	7.fa	run79_G11_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+9	0.fa	run91_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	1.fa	run91_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	2.fa	run91_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	3.fa	run91_G9_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	4.fa	run91_G5_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	5.fa	run91_G7_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	4.fa	run91_G10_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	5.fa	run91_G12_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	6.fa	run91_G16_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	6.fa	run91_G15_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	7.fa	run91_G21_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	7.fa	run91_G22_11	0	0.420	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	3.fa	run91_G4_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+9	6.fa	run91_G18_9	0	0.063	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	0.fa	run64_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	1.fa	run64_G2_1	0	0.248	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	1.fa	run64_G1_1	0	0.149	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	0.fa	run64_G10_0	0	0.136	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	0.fa	run64_G5_0	0	0.146	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	0.fa	run64_G6_0	0	0.195	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	1.fa	run64_G12_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	2.fa	run64_G15_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	3.fa	run64_G16_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	4.fa	run64_G17_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	5.fa	run64_G19_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	6.fa	run64_G24_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	7.fa	run64_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	0.fa	run64_G7_0	0	0.180	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	6.fa	run64_G22_9	0	0.412	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	6.fa	run64_G21_9	0	0.353	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+10	7.fa	run64_G28_11	0	0.289	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+11	0.fa	run51_G0_0	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+11	1.fa	run51_G1_1	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+11	6.fa	run51_G15_9	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+11	7.fa	run51_G17_11	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+11	2.fa	run51_G3_3	0	0.096	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+11	2.fa	run51_G4_3	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+12	0.fa	run41_G5_0	0	0.338	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	0.fa	run41_G6_0	0	0.353	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	1.fa	run41_G9_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	2.fa	run41_G11_3	0	0.078	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	2.fa	run41_G12_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	3.fa	run41_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	4.fa	run41_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	5.fa	run41_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	6.fa	run41_G19_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	7.fa	run41_G28_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	0.fa	run41_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	0.fa	run41_G2_0	0	0.706	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	0.fa	run41_G1_0	0	0.647	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	6.fa	run41_G20_9	0	0.377	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	7.fa	run41_G29_11	0	0.597	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	7.fa	run41_G23_11	0	0.558	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	7.fa	run41_G25_11	0	0.198	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+12	7.fa	run41_G24_11	0	0.156	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	0.fa	run55_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	1.fa	run55_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	2.fa	run55_G7_3	0	0.667	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	2.fa	run55_G8_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	3.fa	run55_G10_4	0	0.897	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	3.fa	run55_G11_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	3.fa	run55_G13_4	0	0.931	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	4.fa	run55_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	5.fa	run55_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	6.fa	run55_G19_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	7.fa	run55_G21_11	0	0.831	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	7.fa	run55_G26_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	7.fa	run55_G22_11	0	0.685	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	7.fa	run55_G23_11	0	0.640	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	0.fa	run55_G2_0	0	0.167	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+13	0.fa	run55_G1_0	0	0.350	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	0.fa	run77_G7_0	0	0.535	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	0.fa	run77_G13_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	1.fa	run77_G16_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	2.fa	run77_G19_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	3.fa	run77_G20_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	4.fa	run77_G21_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	5.fa	run77_G23_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	6.fa	run77_G25_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	7.fa	run77_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	7.fa	run77_G28_11	0	0.716	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	0.fa	run77_G10_0	0	0.789	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	0.fa	run77_G11_0	0	0.789	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	0.fa	run77_G5_0	0	0.408	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+14	0.fa	run77_G6_0	0	0.296	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	0.fa	run42_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	1.fa	run42_G2_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	1.fa	run42_G3_1	0	0.957	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	2.fa	run42_G8_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	2.fa	run42_G7_3	0	0.550	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	3.fa	run42_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	4.fa	run42_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	5.fa	run42_G13_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	6.fa	run42_G19_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	7.fa	run42_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	5.fa	run42_G15_7	0	0.815	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+15	5.fa	run42_G14_7	0	0.741	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	0.fa	run84_G13_0	0	0.167	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	1.fa	run84_G15_1	0	0.120	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	0.fa	run84_G7_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	1.fa	run84_G10_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	2.fa	run84_G20_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	2.fa	run84_G21_3	0	0.980	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	2.fa	run84_G19_3	0	0.061	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	3.fa	run84_G24_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	4.fa	run84_G25_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	5.fa	run84_G27_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	6.fa	run84_G30_9	0	0.723	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	6.fa	run84_G29_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	7.fa	run84_G33_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	0.fa	run84_G1_0	0	0.206	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	0.fa	run84_G4_0	0	0.191	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	0.fa	run84_G3_0	0	0.147	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	0.fa	run84_G0_0	0	0.147	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	1.fa	run84_G9_1	0	0.171	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+16	7.fa	run84_G34_11	0	0.333	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	0.fa	run07_G10_0	0	0.271	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	1.fa	run07_G11_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	2.fa	run07_G20_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	2.fa	run07_G18_3	0	0.361	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	2.fa	run07_G15_3	0	0.311	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	2.fa	run07_G22_3	0	0.295	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	2.fa	run07_G16_3	0	0.213	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	3.fa	run07_G24_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	4.fa	run07_G25_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	5.fa	run07_G27_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	6.fa	run07_G29_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	7.fa	run07_G33_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	0.fa	run07_G4_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	1.fa	run07_G1_1	0	0.136	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	6.fa	run07_G30_9	0	0.485	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+17	0.fa	run07_G0_0	0	0.095	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	0.fa	run73_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	1.fa	run73_G3_1	0	0.849	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	1.fa	run73_G6_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	1.fa	run73_G4_1	0	0.689	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	2.fa	run73_G11_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	3.fa	run73_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	4.fa	run73_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	5.fa	run73_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	6.fa	run73_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	7.fa	run73_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	0.fa	run73_G1_0	0	0.555	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+18	1.fa	run73_G7_1	0	0.095	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+19	0.fa	run35_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	1.fa	run35_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	2.fa	run35_G6_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	2.fa	run35_G4_3	0	0.864	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	2.fa	run35_G3_3	0	0.864	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	3.fa	run35_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	4.fa	run35_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	5.fa	run35_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	6.fa	run35_G13_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+19	7.fa	run35_G15_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+20	0.fa	run98_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	1.fa	run98_G7_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	4.fa	run98_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	5.fa	run98_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	6.fa	run98_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	7.fa	run98_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	0.fa	run98_G4_0	0	0.345	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	0.fa	run98_G1_0	0	0.318	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	2.fa	run98_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	3.fa	run98_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+20	3.fa	run98_G11_4	0	0.925	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	0.fa	run02_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	0.fa	run02_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	1.fa	run02_G4_1	0	0.734	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	1.fa	run02_G3_1	0	0.697	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	1.fa	run02_G9_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	1.fa	run02_G10_1	0	0.844	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	2.fa	run02_G15_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	2.fa	run02_G16_3	0	0.960	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	3.fa	run02_G18_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	4.fa	run02_G19_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	5.fa	run02_G21_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	6.fa	run02_G24_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	6.fa	run02_G23_9	0	0.505	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	1.fa	run02_G8_1	0	0.083	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+21	7.fa	run02_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	0.fa	run47_G0_0	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	0.fa	run47_G4_0	0	0.427	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G16_1	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G9_1	0	0.708	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G8_1	0	0.692	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G12_1	0	0.677	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	4.fa	run47_G28_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	4.fa	run47_G27_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	5.fa	run47_G31_7	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	6.fa	run47_G33_9	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	7.fa	run47_G35_11	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	0.fa	run47_G2_0	0	0.067	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	0.fa	run47_G1_0	0	0.347	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	3.fa	run47_G26_4	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G11_1	0	0.631	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G18_1	0	0.623	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G17_1	0	0.569	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G22_1	0	0.538	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+22	1.fa	run47_G7_1	0	0.169	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	0.fa	run61_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	0.fa	run61_G1_0	0	0.745	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	1.fa	run61_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	2.fa	run61_G6_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	2.fa	run61_G5_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	3.fa	run61_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	4.fa	run61_G24_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	5.fa	run61_G28_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	4.fa	run61_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	5.fa	run61_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	6.fa	run61_G30_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	7.fa	run61_G32_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	4.fa	run61_G25_5	0	0.785	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	6.fa	run61_G13_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	6.fa	run61_G14_9	0	0.758	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	6.fa	run61_G15_9	0	0.697	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	7.fa	run61_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+23	3.fa	run61_G23_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	0.fa	run86_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	0.fa	run86_G1_0	0	0.711	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	1.fa	run86_G7_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	2.fa	run86_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	2.fa	run86_G10_3	0	0.526	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	3.fa	run86_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	3.fa	run86_G13_4	0	0.227	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	4.fa	run86_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	5.fa	run86_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	6.fa	run86_G20_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	6.fa	run86_G19_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	6.fa	run86_G21_9	0	0.682	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	7.fa	run86_G26_11	0	0.871	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	7.fa	run86_G25_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	0.fa	run86_G0_0	0	0.579	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+24	0.fa	run86_G5_0	0	0.438	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	0.fa	run11_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	1.fa	run11_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	2.fa	run11_G8_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	2.fa	run11_G6_3	0	0.405	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	2.fa	run11_G5_3	0	0.215	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	3.fa	run11_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	4.fa	run11_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	5.fa	run11_G13_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	6.fa	run11_G15_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	7.fa	run11_G17_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+25	1.fa	run11_G2_1	0	0.504	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+26	0.fa	run57_G9_0	1	1.000	0.fa-1.fa	No
+26	1.fa	run57_G12_1	1	1.000	0.fa-1.fa	No
+26	1.fa	run57_G10_1	0	0.205	0.fa-1.fa	No
+27	0.fa	run46_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	0.fa	run46_G0_0	0	0.444	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	0.fa	run46_G2_0	0	0.370	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	1.fa	run46_G7_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	2.fa	run46_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	2.fa	run46_G10_3	0	0.521	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	3.fa	run46_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	4.fa	run46_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	5.fa	run46_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	6.fa	run46_G18_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	7.fa	run46_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	6.fa	run46_G20_9	0	0.253	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	6.fa	run46_G17_9	0	0.337	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+27	0.fa	run46_G5_0	0	0.124	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	0.fa	run60_G0_0	0	0.982	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	0.fa	run60_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	1.fa	run60_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	2.fa	run60_G6_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	2.fa	run60_G5_3	0	0.629	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	3.fa	run60_G16_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	3.fa	run60_G15_4	0	0.854	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	4.fa	run60_G18_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	5.fa	run60_G20_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	6.fa	run60_G23_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	7.fa	run60_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	6.fa	run60_G13_9	0	0.267	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+28	6.fa	run60_G22_9	0	0.156	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	0.fa	run76_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	1.fa	run76_G1_1	0	0.690	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	1.fa	run76_G2_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	4.fa	run76_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	5.fa	run76_G14_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	6.fa	run76_G18_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	6.fa	run76_G19_9	0	0.912	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	7.fa	run76_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	2.fa	run76_G5_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	2.fa	run76_G7_3	0	0.606	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	5.fa	run76_G13_7	0	0.215	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+29	3.fa	run76_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	0.fa	run36_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	1.fa	run36_G6_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	2.fa	run36_G13_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	2.fa	run36_G12_3	0	0.549	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	3.fa	run36_G16_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	3.fa	run36_G21_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	3.fa	run36_G26_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	4.fa	run36_G22_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	5.fa	run36_G24_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	4.fa	run36_G17_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	5.fa	run36_G19_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	4.fa	run36_G27_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	5.fa	run36_G29_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	6.fa	run36_G33_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	7.fa	run36_G35_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	0.fa	run36_G1_0	0	0.404	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	1.fa	run36_G3_1	0	0.548	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+30	1.fa	run36_G4_1	0	0.481	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	0.fa	run57_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	1.fa	run57_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	1.fa	run57_G3_1	0	0.493	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	1.fa	run57_G2_1	0	0.437	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	2.fa	run57_G18_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	2.fa	run57_G17_3	0	0.882	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	3.fa	run57_G20_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	4.fa	run57_G21_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	5.fa	run57_G23_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	6.fa	run57_G25_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	6.fa	run57_G27_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	7.fa	run57_G31_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	7.fa	run57_G32_11	0	0.649	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	1.fa	run57_G5_1	0	0.197	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+31	6.fa	run57_G26_9	0	0.887	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+32	0.fa	run94_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	1.fa	run94_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	2.fa	run94_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	2.fa	run94_G4_3	0	0.944	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	3.fa	run94_G6_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	4.fa	run94_G7_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	5.fa	run94_G9_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	7.fa	run94_G13_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	7.fa	run94_G16_11	0	0.649	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+32	7.fa	run94_G14_11	0	0.702	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+33	0.fa	run10_G2_0	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	0.fa	run10_G1_0	0	0.579	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	1.fa	run10_G10_1	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	0.fa	run10_G13_0	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	1.fa	run10_G14_1	0	0.075	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	1.fa	run10_G15_1	0	0.083	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	6.fa	run10_G27_9	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	7.fa	run10_G30_11	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	7.fa	run10_G29_11	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	0.fa	run10_G8_0	0	0.256	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	0.fa	run10_G7_0	0	0.140	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	2.fa	run10_G19_3	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	2.fa	run10_G20_3	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	0.fa	run10_G0_0	0	0.157	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+33	1.fa	run10_G5_1	0	0.050	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+34	0.fa	run13_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	1.fa	run13_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	2.fa	run13_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	3.fa	run13_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	4.fa	run13_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	5.fa	run13_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	6.fa	run13_G13_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	7.fa	run13_G15_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	0.fa	run13_G0_0	0	0.180	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+34	1.fa	run13_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+35	0.fa	run33_G3_0	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	1.fa	run33_G5_1	0	0.365	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	6.fa	run33_G18_9	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	6.fa	run33_G17_9	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	7.fa	run33_G21_11	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	7.fa	run33_G22_11	0	0.688	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	0.fa	run33_G0_0	0	0.258	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	2.fa	run33_G11_3	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	1.fa	run33_G4_1	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+35	1.fa	run33_G7_1	0	0.417	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+36	0.fa	run48_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	1.fa	run48_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	2.fa	run48_G18_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	3.fa	run48_G20_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	4.fa	run48_G21_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	5.fa	run48_G25_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	6.fa	run48_G27_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	7.fa	run48_G30_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	7.fa	run48_G29_11	0	0.662	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	2.fa	run48_G17_3	0	0.107	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	0.fa	run48_G7_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	0.fa	run48_G8_0	0	0.202	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	1.fa	run48_G1_1	0	0.117	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	4.fa	run48_G22_5	0	0.575	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+36	0.fa	run48_G0_0	0	0.063	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	0.fa	run16_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	1.fa	run16_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	1.fa	run16_G7_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	1.fa	run16_G2_1	0	0.783	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	1.fa	run16_G3_1	0	0.707	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	1.fa	run16_G10_1	0	0.641	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	2.fa	run16_G13_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	3.fa	run16_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	3.fa	run16_G19_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	4.fa	run16_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	5.fa	run16_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	4.fa	run16_G20_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	5.fa	run16_G22_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	6.fa	run16_G26_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	6.fa	run16_G28_9	0	0.977	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	6.fa	run16_G25_9	0	0.969	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	7.fa	run16_G31_11	0	0.420	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+37	7.fa	run16_G32_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	0.fa	run90_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	0.fa	run90_G1_0	0	0.960	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	1.fa	run90_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	2.fa	run90_G8_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	2.fa	run90_G7_3	0	0.884	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	2.fa	run90_G10_3	0	0.768	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	3.fa	run90_G15_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	3.fa	run90_G12_4	0	0.619	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	4.fa	run90_G16_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	5.fa	run90_G19_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	6.fa	run90_G21_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	7.fa	run90_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	0.fa	run90_G3_0	0	0.333	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	4.fa	run90_G13_5	0	0.291	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+38	7.fa	run90_G24_11	0	0.194	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+39	0.fa	run59_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	0.fa	run59_G4_0	0	0.719	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	0.fa	run59_G1_0	0	0.552	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	0.fa	run59_G2_0	0	0.500	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	1.fa	run59_G9_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	2.fa	run59_G11_3	0	0.600	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	2.fa	run59_G12_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	2.fa	run59_G13_3	0	0.300	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	2.fa	run59_G14_3	0	0.240	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	3.fa	run59_G18_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	4.fa	run59_G19_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	5.fa	run59_G21_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	5.fa	run59_G22_7	0	0.938	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	6.fa	run59_G25_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	7.fa	run59_G28_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+39	7.fa	run59_G27_11	0	0.905	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+40	0.fa	run50_G0_0	1	1.000	0.fa-1.fa	No
+40	1.fa	run50_G2_1	1	1.000	0.fa-1.fa	No
+41	0.fa	run18_G1_0	1	1.000	0.fa-1.fa	No
+41	0.fa	run18_G0_0	0	0.349	0.fa-1.fa	No
+41	1.fa	run18_G3_1	1	1.000	0.fa-1.fa	No
+41	1.fa	run18_G4_1	0	0.683	0.fa-1.fa	No
+42	0.fa	run63_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	1.fa	run63_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	2.fa	run63_G10_3	0	0.083	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	2.fa	run63_G9_3	0	0.275	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	2.fa	run63_G8_3	0	0.242	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	3.fa	run63_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	4.fa	run63_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	5.fa	run63_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	6.fa	run63_G19_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	7.fa	run63_G21_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	2.fa	run63_G6_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	2.fa	run63_G3_3	0	0.258	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+42	2.fa	run63_G4_3	0	0.258	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+43	0.fa	run88_G3_0	0	0.592	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	0.fa	run88_G4_0	0	0.563	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	0.fa	run88_G0_0	0	0.817	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	0.fa	run88_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	1.fa	run88_G7_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	2.fa	run88_G10_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	2.fa	run88_G9_3	0	0.154	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	3.fa	run88_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	3.fa	run88_G23_4	0	0.084	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	4.fa	run88_G16_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	4.fa	run88_G17_5	0	0.727	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	5.fa	run88_G21_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	4.fa	run88_G24_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	5.fa	run88_G26_7	0	0.221	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	6.fa	run88_G29_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	7.fa	run88_G31_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	4.fa	run88_G14_5	0	0.329	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+43	4.fa	run88_G13_5	0	0.235	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	0.fa	run26_G5_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	1.fa	run26_G10_1	0	0.100	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	2.fa	run26_G14_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	2.fa	run26_G13_3	0	0.152	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	3.fa	run26_G21_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	3.fa	run26_G22_4	0	0.975	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	3.fa	run26_G16_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	4.fa	run26_G17_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	5.fa	run26_G19_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	4.fa	run26_G24_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	5.fa	run26_G26_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	6.fa	run26_G30_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	6.fa	run26_G29_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	7.fa	run26_G33_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	1.fa	run26_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	1.fa	run26_G2_1	0	0.427	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	0.fa	run26_G6_0	0	0.180	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+44	0.fa	run26_G7_0	0	0.070	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+45	0.fa	run20_G0_0	0	0.589	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	0.fa	run20_G5_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	0.fa	run20_G1_0	0	0.492	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	1.fa	run20_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	2.fa	run20_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	3.fa	run20_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	4.fa	run20_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	5.fa	run20_G13_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	6.fa	run20_G15_9	0	0.556	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	6.fa	run20_G16_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+45	7.fa	run20_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+46	0.fa	run14_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	1.fa	run14_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	1.fa	run14_G3_1	0	0.649	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	2.fa	run14_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	2.fa	run14_G8_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	2.fa	run14_G7_3	0	0.263	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	3.fa	run14_G18_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	3.fa	run14_G17_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	3.fa	run14_G12_4	0	0.207	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	4.fa	run14_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	5.fa	run14_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	4.fa	run14_G20_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	5.fa	run14_G22_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	5.fa	run14_G23_7	0	0.244	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	6.fa	run14_G27_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	7.fa	run14_G30_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	7.fa	run14_G29_11	0	0.920	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	7.fa	run14_G32_11	0	0.909	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	7.fa	run14_G31_11	0	0.875	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+46	0.fa	run14_G1_0	0	0.190	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	0.fa	run74_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	1.fa	run74_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	2.fa	run74_G12_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	2.fa	run74_G10_3	0	0.478	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	2.fa	run74_G9_3	0	0.300	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	3.fa	run74_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	4.fa	run74_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	4.fa	run74_G16_5	0	0.846	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	5.fa	run74_G19_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	6.fa	run74_G24_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	6.fa	run74_G23_9	0	0.500	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	7.fa	run74_G28_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	0.fa	run74_G0_0	0	0.162	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	1.fa	run74_G5_1	0	0.234	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	1.fa	run74_G4_1	0	0.234	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	5.fa	run74_G20_7	0	0.312	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+47	7.fa	run74_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	0.fa	run34_G0_0	0	0.914	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	0.fa	run34_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	0.fa	run34_G3_0	0	0.612	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	1.fa	run34_G7_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	1.fa	run34_G8_1	0	0.723	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	1.fa	run34_G9_1	0	0.639	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	2.fa	run34_G14_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	2.fa	run34_G13_3	0	0.796	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	3.fa	run34_G16_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	4.fa	run34_G17_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	5.fa	run34_G19_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	6.fa	run34_G21_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	7.fa	run34_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+48	0.fa	run34_G5_0	0	0.164	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+49	0.fa	run03_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+49	1.fa	run03_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+49	2.fa	run03_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+49	3.fa	run03_G6_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+49	4.fa	run03_G7_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+49	5.fa	run03_G9_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+49	6.fa	run03_G11_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+49	7.fa	run03_G13_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+50	0.fa	run17_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	1.fa	run17_G4_1	0	0.062	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	0.fa	run17_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	1.fa	run17_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	2.fa	run17_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	3.fa	run17_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	4.fa	run17_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	5.fa	run17_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	6.fa	run17_G13_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	7.fa	run17_G23_11	0	0.833	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	7.fa	run17_G21_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	7.fa	run17_G18_11	0	0.717	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	7.fa	run17_G15_11	0	0.675	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	7.fa	run17_G16_11	0	0.625	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+50	7.fa	run17_G20_11	0	0.667	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	0.fa	run67_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	1.fa	run67_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	1.fa	run67_G2_1	0	0.783	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	4.fa	run67_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	5.fa	run67_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	6.fa	run67_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	7.fa	run67_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	2.fa	run67_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	2.fa	run67_G7_3	0	0.131	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	2.fa	run67_G6_3	0	0.107	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	2.fa	run67_G5_3	0	0.098	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+51	3.fa	run67_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	0.fa	run92_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	1.fa	run92_G5_1	0	0.831	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	1.fa	run92_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	0.fa	run92_G0_0	0	0.189	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	1.fa	run92_G1_1	0	0.174	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	2.fa	run92_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	3.fa	run92_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	4.fa	run92_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	5.fa	run92_G13_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	6.fa	run92_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	6.fa	run92_G16_9	0	0.750	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	7.fa	run92_G21_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	7.fa	run92_G22_11	0	0.356	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+52	6.fa	run92_G15_9	0	0.250	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	0.fa	run00_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	1.fa	run00_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	2.fa	run00_G4_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	2.fa	run00_G3_3	0	0.645	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	3.fa	run00_G6_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	4.fa	run00_G7_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	5.fa	run00_G9_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	6.fa	run00_G11_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	7.fa	run00_G14_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	7.fa	run00_G13_11	0	0.494	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+53	7.fa	run00_G16_11	0	0.430	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+54	0.fa	run31_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	1.fa	run31_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	1.fa	run31_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	1.fa	run31_G2_1	0	0.833	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	2.fa	run31_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	3.fa	run31_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	4.fa	run31_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	5.fa	run31_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	6.fa	run31_G14_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+54	7.fa	run31_G17_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	0.fa	run72_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	1.fa	run72_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	1.fa	run72_G2_1	0	0.360	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	2.fa	run72_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	3.fa	run72_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	4.fa	run72_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	5.fa	run72_G13_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	6.fa	run72_G15_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+55	7.fa	run72_G17_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+56	0.fa	run27_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	1.fa	run27_G8_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	2.fa	run27_G18_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	3.fa	run27_G20_4	0	0.143	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	3.fa	run27_G25_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	4.fa	run27_G26_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	5.fa	run27_G28_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	5.fa	run27_G29_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	4.fa	run27_G21_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	5.fa	run27_G23_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	6.fa	run27_G33_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	7.fa	run27_G35_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	2.fa	run27_G17_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+56	1.fa	run27_G9_1	0	0.083	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	0.fa	run99_G0_0	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	1.fa	run99_G1_1	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	1.fa	run99_G5_1	0	0.472	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	1.fa	run99_G4_1	0	0.434	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	1.fa	run99_G7_1	0	0.085	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	4.fa	run99_G13_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	5.fa	run99_G15_7	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	6.fa	run99_G17_9	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	6.fa	run99_G18_9	0	0.866	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	6.fa	run99_G19_9	0	0.744	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	6.fa	run99_G21_9	0	0.683	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	6.fa	run99_G24_9	0	0.146	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	7.fa	run99_G27_11	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	3.fa	run99_G12_4	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+57	1.fa	run99_G2_1	0	0.123	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+58	0.fa	run44_G0_0	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	1.fa	run44_G1_1	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	1.fa	run44_G3_1	0	0.225	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	1.fa	run44_G2_1	0	0.113	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	6.fa	run44_G22_9	0	0.755	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	6.fa	run44_G18_9	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	6.fa	run44_G17_9	0	0.945	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	6.fa	run44_G19_9	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	7.fa	run44_G25_11	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	2.fa	run44_G8_3	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+58	2.fa	run44_G7_3	0	0.945	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+59	0.fa	run54_G1_0	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	0.fa	run54_G0_0	0	0.712	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	0.fa	run54_G2_0	0	0.658	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	1.fa	run54_G5_1	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	1.fa	run54_G6_1	0	0.586	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	4.fa	run54_G15_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	5.fa	run54_G17_7	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	6.fa	run54_G19_9	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	7.fa	run54_G21_11	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	1.fa	run54_G8_1	0	0.422	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+59	3.fa	run54_G14_4	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+60	0.fa	run69_G0_0	1	1.000	0.fa-1.fa	No
+60	0.fa	run69_G1_0	0	0.905	0.fa-1.fa	No
+60	0.fa	run69_G3_0	0	0.405	0.fa-1.fa	No
+60	0.fa	run69_G4_0	0	0.365	0.fa-1.fa	No
+60	0.fa	run69_G7_0	0	0.203	0.fa-1.fa	No
+60	1.fa	run69_G9_1	1	1.000	0.fa-1.fa	No
+61	0.fa	run32_G0_0	1	1.000	0.fa-1.fa	No
+61	0.fa	run32_G1_0	1	1.000	0.fa-1.fa	No
+61	1.fa	run32_G3_1	1	1.000	0.fa-1.fa	No
+62	0.fa	run21_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	0.fa	run21_G3_0	0	0.478	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	1.fa	run21_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	2.fa	run21_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	3.fa	run21_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	4.fa	run21_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	5.fa	run21_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	6.fa	run21_G13_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	7.fa	run21_G15_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+62	0.fa	run21_G1_0	0	0.071	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+63	0.fa	run85_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+63	1.fa	run85_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+63	2.fa	run85_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+63	2.fa	run85_G4_3	0	0.298	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+63	3.fa	run85_G6_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+63	4.fa	run85_G7_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+63	5.fa	run85_G9_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+63	7.fa	run85_G13_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	No
+64	0.fa	run23_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	1.fa	run23_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	2.fa	run23_G4_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	2.fa	run23_G3_3	0	0.699	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	2.fa	run23_G6_3	0	0.602	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	2.fa	run23_G7_3	0	0.578	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	2.fa	run23_G9_3	0	0.554	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	3.fa	run23_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	4.fa	run23_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	5.fa	run23_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	6.fa	run23_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+64	7.fa	run23_G21_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+65	0.fa	run80_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	0.fa	run80_G2_0	0	0.973	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	0.fa	run80_G0_0	0	0.945	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	1.fa	run80_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	2.fa	run80_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	3.fa	run80_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	4.fa	run80_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	5.fa	run80_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	6.fa	run80_G16_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	7.fa	run80_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	6.fa	run80_G13_9	0	0.083	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+65	6.fa	run80_G14_9	0	0.065	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	0.fa	run45_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	1.fa	run45_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	1.fa	run45_G2_1	0	0.603	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	2.fa	run45_G10_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	3.fa	run45_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	4.fa	run45_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	5.fa	run45_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	6.fa	run45_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	6.fa	run45_G18_9	0	0.300	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	6.fa	run45_G19_9	0	0.225	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	7.fa	run45_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	2.fa	run45_G8_3	0	0.297	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	2.fa	run45_G6_3	0	0.275	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+66	2.fa	run45_G5_3	0	0.253	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+67	0.fa	run43_G0_0	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	1.fa	run43_G2_1	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	1.fa	run43_G1_1	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	1.fa	run43_G4_1	0	0.962	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	4.fa	run43_G9_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	5.fa	run43_G12_7	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	5.fa	run43_G11_7	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	6.fa	run43_G23_9	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	7.fa	run43_G25_11	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+67	3.fa	run43_G8_4	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+68	0.fa	run75_G0_0	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	1.fa	run75_G1_1	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	4.fa	run75_G19_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	4.fa	run75_G18_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	4.fa	run75_G17_5	0	0.902	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	5.fa	run75_G23_7	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	6.fa	run75_G25_9	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	6.fa	run75_G26_9	0	0.160	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	7.fa	run75_G29_11	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	3.fa	run75_G15_4	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+68	3.fa	run75_G14_4	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+69	0.fa	run28_G0_0	1	1.000	0.fa-1.fa	No
+69	0.fa	run28_G1_0	0	0.756	0.fa-1.fa	No
+69	1.fa	run28_G3_1	1	1.000	0.fa-1.fa	No
+70	0.fa	run96_G3_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	0.fa	run96_G0_0	0	0.059	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	1.fa	run96_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	1.fa	run96_G6_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	2.fa	run96_G10_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	2.fa	run96_G9_3	0	0.930	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	2.fa	run96_G12_3	0	0.860	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	3.fa	run96_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	4.fa	run96_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	5.fa	run96_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	4.fa	run96_G20_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	5.fa	run96_G22_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	6.fa	run96_G25_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	7.fa	run96_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	7.fa	run96_G28_11	0	0.942	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	7.fa	run96_G30_11	0	0.188	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+70	3.fa	run96_G19_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	0.fa	run08_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	0.fa	run08_G0_0	0	0.720	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	1.fa	run08_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	2.fa	run08_G16_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	3.fa	run08_G17_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	3.fa	run08_G18_4	0	0.898	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	3.fa	run08_G6_4	0	0.185	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	4.fa	run08_G20_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	5.fa	run08_G22_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	4.fa	run08_G7_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	5.fa	run08_G9_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	6.fa	run08_G29_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	6.fa	run08_G24_9	0	0.577	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	6.fa	run08_G26_9	0	0.510	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	6.fa	run08_G25_9	0	0.481	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	6.fa	run08_G11_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+71	7.fa	run08_G32_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+72	0.fa	run38_G3_0	0	0.207	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+72	0.fa	run38_G1_0	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+72	1.fa	run38_G5_1	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+72	6.fa	run38_G13_9	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+72	7.fa	run38_G16_11	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+72	7.fa	run38_G15_11	0	0.135	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+72	0.fa	run38_G0_0	0	0.609	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+72	2.fa	run38_G7_3	1	1.000	0.fa-1.fa-2.fa-6.fa-7.fa	diff. numbers
+73	0.fa	run81_G2_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	0.fa	run81_G0_0	0	0.329	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	1.fa	run81_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	2.fa	run81_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	3.fa	run81_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	4.fa	run81_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	5.fa	run81_G13_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	6.fa	run81_G15_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	7.fa	run81_G22_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	7.fa	run81_G18_11	0	0.168	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+73	7.fa	run81_G19_11	0	0.089	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+74	0.fa	run04_G5_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	1.fa	run04_G6_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	2.fa	run04_G9_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	3.fa	run04_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	4.fa	run04_G20_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	5.fa	run04_G22_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	4.fa	run04_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	4.fa	run04_G12_5	0	0.433	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	5.fa	run04_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	6.fa	run04_G24_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	7.fa	run04_G29_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	7.fa	run04_G27_11	0	0.411	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	7.fa	run04_G28_11	0	0.259	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+74	3.fa	run04_G19_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. names
+75	0.fa	run62_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	1.fa	run62_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	2.fa	run62_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	2.fa	run62_G4_3	0	0.877	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	3.fa	run62_G11_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	4.fa	run62_G7_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	5.fa	run62_G9_7	0	0.278	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	6.fa	run62_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	7.fa	run62_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	3.fa	run62_G6_4	0	0.062	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	4.fa	run62_G12_5	0	0.235	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+75	5.fa	run62_G14_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	0.fa	run89_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	1.fa	run89_G13_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	2.fa	run89_G17_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	3.fa	run89_G18_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	4.fa	run89_G19_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	5.fa	run89_G21_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	5.fa	run89_G22_7	0	0.833	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	6.fa	run89_G25_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	7.fa	run89_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	7.fa	run89_G28_11	0	0.736	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	1.fa	run89_G4_1	0	0.417	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	1.fa	run89_G1_1	0	0.078	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+76	7.fa	run89_G30_11	0	0.264	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	0.fa	run12_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	1.fa	run12_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	2.fa	run12_G4_3	0	0.966	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	2.fa	run12_G5_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	2.fa	run12_G3_3	0	0.943	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	2.fa	run12_G8_3	0	0.908	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	3.fa	run12_G17_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	3.fa	run12_G10_4	0	0.447	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	4.fa	run12_G18_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	5.fa	run12_G14_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	5.fa	run12_G13_7	0	0.650	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	6.fa	run12_G23_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	7.fa	run12_G28_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	7.fa	run12_G26_11	0	0.547	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	7.fa	run12_G25_11	0	0.507	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	4.fa	run12_G11_5	0	0.127	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+77	5.fa	run12_G20_7	0	0.132	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+78	0.fa	run40_G1_0	0	0.885	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	0.fa	run40_G7_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	0.fa	run40_G4_0	0	0.481	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	0.fa	run40_G3_0	0	0.413	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	1.fa	run40_G10_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	1.fa	run40_G9_1	0	0.750	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	2.fa	run40_G13_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	3.fa	run40_G19_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	3.fa	run40_G14_4	0	0.120	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	4.fa	run40_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	5.fa	run40_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	4.fa	run40_G21_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	4.fa	run40_G22_5	0	0.854	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	5.fa	run40_G26_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	0.fa	run40_G0_0	0	0.164	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	4.fa	run40_G20_5	0	0.516	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+78	7.fa	run40_G31_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-7.fa	diff. numbers
+79	0.fa	run70_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	0.fa	run70_G1_0	0	0.983	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	1.fa	run70_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	1.fa	run70_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	4.fa	run70_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	5.fa	run70_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	6.fa	run70_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	7.fa	run70_G19_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	3.fa	run70_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	3.fa	run70_G11_4	0	0.707	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	4.fa	run70_G12_5	0	0.573	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+79	2.fa	run70_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	0.fa	run37_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	1.fa	run37_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	2.fa	run37_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	3.fa	run37_G19_4	0	0.500	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	3.fa	run37_G9_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	3.fa	run37_G18_4	0	0.192	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	3.fa	run37_G4_4	0	0.167	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	4.fa	run37_G5_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	5.fa	run37_G7_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	4.fa	run37_G10_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	4.fa	run37_G11_5	0	0.196	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	4.fa	run37_G12_5	0	0.188	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	5.fa	run37_G16_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	4.fa	run37_G21_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	5.fa	run37_G23_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	6.fa	run37_G27_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+80	7.fa	run37_G29_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	0.fa	run58_G1_0	0	0.533	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	0.fa	run58_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	1.fa	run58_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	2.fa	run58_G12_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	2.fa	run58_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	2.fa	run58_G8_3	0	0.884	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	2.fa	run58_G10_3	0	0.348	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	3.fa	run58_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	4.fa	run58_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	5.fa	run58_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	6.fa	run58_G19_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	6.fa	run58_G20_9	0	0.812	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	7.fa	run58_G23_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	7.fa	run58_G24_11	0	0.861	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	7.fa	run58_G25_11	0	0.653	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+81	0.fa	run58_G2_0	0	0.078	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	0.fa	run30_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	0.fa	run30_G0_0	0	0.861	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	1.fa	run30_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	2.fa	run30_G23_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	2.fa	run30_G22_3	0	0.864	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	3.fa	run30_G25_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	4.fa	run30_G26_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	5.fa	run30_G29_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	4.fa	run30_G7_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	5.fa	run30_G10_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	6.fa	run30_G32_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	7.fa	run30_G34_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	2.fa	run30_G5_3	0	0.206	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	3.fa	run30_G6_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	5.fa	run30_G28_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	7.fa	run30_G15_11	0	0.248	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	7.fa	run30_G16_11	0	0.202	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	6.fa	run30_G13_9	0	0.093	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+82	7.fa	run30_G18_11	0	0.110	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	0.fa	run82_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	0.fa	run82_G1_0	0	0.718	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	1.fa	run82_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	0.fa	run82_G10_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	0.fa	run82_G7_0	0	0.148	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	0.fa	run82_G8_0	0	0.131	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	1.fa	run82_G13_1	0	0.833	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	1.fa	run82_G12_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	1.fa	run82_G14_1	0	0.280	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	2.fa	run82_G19_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	3.fa	run82_G20_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	4.fa	run82_G22_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	4.fa	run82_G21_5	0	0.143	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	5.fa	run82_G25_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	6.fa	run82_G28_9	0	0.300	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	6.fa	run82_G27_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	7.fa	run82_G35_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	6.fa	run82_G31_9	0	0.256	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+83	6.fa	run82_G30_9	0	0.202	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+84	0.fa	run66_G0_0	1	1.000	0.fa-1.fa	No
+84	0.fa	run66_G1_0	0	0.736	0.fa-1.fa	No
+84	1.fa	run66_G3_1	1	1.000	0.fa-1.fa	No
+85	0.fa	run49_G1_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	0.fa	run49_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	0.fa	run49_G3_0	0	0.884	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	1.fa	run49_G5_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	2.fa	run49_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	3.fa	run49_G8_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	4.fa	run49_G10_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	4.fa	run49_G11_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	4.fa	run49_G9_5	0	0.623	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	5.fa	run49_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	6.fa	run49_G17_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	7.fa	run49_G24_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	7.fa	run49_G25_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	7.fa	run49_G32_11	0	0.194	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	6.fa	run49_G19_9	0	0.200	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	6.fa	run49_G18_9	0	0.152	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	7.fa	run49_G28_11	0	0.056	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	7.fa	run49_G27_11	0	0.233	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+85	7.fa	run49_G30_11	0	0.122	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	0.fa	run93_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	0.fa	run93_G1_0	0	0.204	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	1.fa	run93_G4_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	1.fa	run93_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	1.fa	run93_G6_1	0	0.863	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	2.fa	run93_G14_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	2.fa	run93_G12_3	0	0.553	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	2.fa	run93_G9_3	0	0.404	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	3.fa	run93_G16_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	3.fa	run93_G23_4	0	0.857	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	3.fa	run93_G24_4	0	0.835	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	4.fa	run93_G18_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	4.fa	run93_G17_5	0	0.987	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	5.fa	run93_G21_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	4.fa	run93_G27_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	4.fa	run93_G26_5	0	0.500	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	5.fa	run93_G30_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	6.fa	run93_G33_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	7.fa	run93_G35_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+86	2.fa	run93_G10_3	0	0.395	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	0.fa	run83_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	1.fa	run83_G1_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	2.fa	run83_G3_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	3.fa	run83_G11_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	3.fa	run83_G10_4	0	0.724	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	4.fa	run83_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	5.fa	run83_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	6.fa	run83_G17_9	0	0.705	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	6.fa	run83_G20_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	6.fa	run83_G19_9	0	0.886	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	6.fa	run83_G18_9	0	0.676	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	7.fa	run83_G27_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	2.fa	run83_G5_3	0	0.172	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	2.fa	run83_G7_3	0	0.172	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+87	6.fa	run83_G24_9	0	0.190	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	0.fa	run06_G1_0	0	0.835	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	0.fa	run06_G0_0	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	1.fa	run06_G3_1	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	1.fa	run06_G4_1	0	0.724	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	1.fa	run06_G5_1	0	0.707	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	4.fa	run06_G11_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	5.fa	run06_G20_7	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	5.fa	run06_G21_7	0	0.194	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	5.fa	run06_G14_7	0	0.700	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	5.fa	run06_G13_7	0	0.655	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	6.fa	run06_G25_9	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	7.fa	run06_G28_11	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	7.fa	run06_G27_11	0	0.475	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	3.fa	run06_G10_4	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+88	4.fa	run06_G18_5	1	1.000	0.fa-1.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	0.fa	run29_G4_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	0.fa	run29_G3_0	0	0.460	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	0.fa	run29_G1_0	0	0.407	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	0.fa	run29_G0_0	0	0.080	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	1.fa	run29_G7_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	2.fa	run29_G12_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	2.fa	run29_G10_3	0	0.178	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	2.fa	run29_G9_3	0	0.110	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	3.fa	run29_G19_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	3.fa	run29_G14_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	4.fa	run29_G15_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	5.fa	run29_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	4.fa	run29_G20_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	5.fa	run29_G22_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	6.fa	run29_G26_9	0	0.907	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	6.fa	run29_G25_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+89	7.fa	run29_G29_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	0.fa	run71_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	0.fa	run71_G1_0	0	0.333	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	1.fa	run71_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	2.fa	run71_G5_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	3.fa	run71_G12_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	4.fa	run71_G13_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	4.fa	run71_G14_5	0	0.692	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	5.fa	run71_G17_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	6.fa	run71_G31_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	7.fa	run71_G33_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	3.fa	run71_G21_4	0	0.179	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	2.fa	run71_G7_3	0	0.317	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	2.fa	run71_G8_3	0	0.308	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	4.fa	run71_G23_5	0	0.528	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	4.fa	run71_G22_5	0	0.434	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	4.fa	run71_G25_5	0	0.358	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	5.fa	run71_G28_7	0	0.483	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+90	5.fa	run71_G18_7	0	0.320	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+91	0.fa	run22_G4_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	0.fa	run22_G2_0	0	0.853	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	0.fa	run22_G6_0	0	0.793	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	0.fa	run22_G7_0	0	0.793	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	0.fa	run22_G0_0	0	0.724	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	0.fa	run22_G1_0	0	0.707	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	1.fa	run22_G11_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	2.fa	run22_G16_3	0	0.784	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	2.fa	run22_G15_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	3.fa	run22_G18_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	4.fa	run22_G19_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	5.fa	run22_G21_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	6.fa	run22_G23_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+91	7.fa	run22_G25_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+92	2.fa	run52_G3_3	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	2.fa	run52_G4_3	0	0.091	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	3.fa	run52_G11_4	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	4.fa	run52_G12_5	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	5.fa	run52_G14_7	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	4.fa	run52_G7_5	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	5.fa	run52_G9_7	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	6.fa	run52_G17_9	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	7.fa	run52_G19_11	0	0.442	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	7.fa	run52_G21_11	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	1.fa	run52_G1_1	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	3.fa	run52_G6_4	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+92	7.fa	run52_G20_11	0	0.329	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	2.fa	run95_G5_3	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	2.fa	run95_G10_3	0	0.164	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	2.fa	run95_G11_3	0	0.145	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	3.fa	run95_G18_4	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	4.fa	run95_G19_5	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	5.fa	run95_G21_7	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	6.fa	run95_G23_9	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	7.fa	run95_G25_11	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	0.fa	run95_G1_0	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+93	0.fa	run95_G0_0	0	0.173	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	2.fa	run69_G13_3	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	3.fa	run69_G16_4	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	4.fa	run69_G22_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	5.fa	run69_G24_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	4.fa	run69_G17_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	5.fa	run69_G19_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	6.fa	run69_G27_9	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	7.fa	run69_G29_11	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	2.fa	run69_G11_3	0	0.094	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+94	3.fa	run69_G21_4	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	2.fa	run78_G7_3	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	3.fa	run78_G9_4	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	3.fa	run78_G8_4	0	0.873	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	3.fa	run78_G11_4	0	0.810	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	4.fa	run78_G22_5	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	5.fa	run78_G24_7	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	4.fa	run78_G13_5	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	5.fa	run78_G15_7	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	6.fa	run78_G18_9	0	0.797	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	6.fa	run78_G17_9	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	7.fa	run78_G29_11	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	0.fa	run78_G0_0	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	3.fa	run78_G21_4	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+95	6.fa	run78_G26_9	0	0.388	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+96	2.fa	run39_G5_3	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	3.fa	run39_G7_4	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	3.fa	run39_G6_4	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	4.fa	run39_G9_5	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	4.fa	run39_G10_5	0	0.273	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	5.fa	run39_G14_7	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	5.fa	run39_G13_7	0	0.766	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	6.fa	run39_G17_9	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	7.fa	run39_G20_11	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	7.fa	run39_G21_11	0	0.843	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	7.fa	run39_G19_11	0	0.363	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+96	0.fa	run39_G0_0	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+97	2.fa	run50_G5_3	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+97	3.fa	run50_G6_4	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+97	4.fa	run50_G7_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+97	5.fa	run50_G9_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+97	6.fa	run50_G11_9	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+97	7.fa	run50_G13_11	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+98	2.fa	run56_G6_3	0	0.280	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	2.fa	run56_G5_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	3.fa	run56_G13_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	4.fa	run56_G9_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	5.fa	run56_G11_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	5.fa	run56_G16_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	6.fa	run56_G20_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	6.fa	run56_G19_9	0	0.400	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	7.fa	run56_G28_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	1.fa	run56_G2_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	1.fa	run56_G1_1	0	0.380	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	3.fa	run56_G8_4	0	0.133	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	4.fa	run56_G14_5	0	0.259	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+98	0.fa	run56_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+99	2.fa	run18_G8_3	0	0.808	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	2.fa	run18_G7_3	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	2.fa	run18_G9_3	0	0.110	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	3.fa	run18_G12_4	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	4.fa	run18_G13_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	5.fa	run18_G15_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	5.fa	run18_G16_7	0	0.815	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	6.fa	run18_G20_9	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	6.fa	run18_G23_9	0	0.820	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	6.fa	run18_G21_9	0	0.955	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	6.fa	run18_G26_9	0	0.748	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	6.fa	run18_G19_9	0	0.595	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+99	7.fa	run18_G29_11	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+100	2.fa	run66_G5_3	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+100	3.fa	run66_G7_4	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+100	3.fa	run66_G6_4	0	0.958	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+100	4.fa	run66_G9_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+100	5.fa	run66_G11_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+100	6.fa	run66_G14_9	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+100	6.fa	run66_G13_9	0	0.050	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+100	7.fa	run66_G17_11	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	2.fa	run15_G3_3	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	2.fa	run15_G6_3	0	0.449	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	2.fa	run15_G4_3	0	0.076	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	3.fa	run15_G8_4	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	3.fa	run15_G21_4	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	4.fa	run15_G22_5	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	5.fa	run15_G24_7	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	4.fa	run15_G10_5	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	4.fa	run15_G9_5	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	5.fa	run15_G13_7	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	5.fa	run15_G14_7	0	0.442	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	6.fa	run15_G17_9	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	6.fa	run15_G18_9	0	0.770	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	7.fa	run15_G30_11	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	7.fa	run15_G31_11	0	0.694	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	7.fa	run15_G29_11	0	0.661	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+101	1.fa	run15_G1_1	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	2.fa	run19_G5_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	3.fa	run19_G10_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	3.fa	run19_G17_4	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	4.fa	run19_G18_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	5.fa	run19_G20_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	4.fa	run19_G12_5	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	4.fa	run19_G11_5	0	0.797	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	5.fa	run19_G15_7	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	6.fa	run19_G23_9	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	7.fa	run19_G25_11	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	7.fa	run19_G26_11	0	0.207	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	0.fa	run19_G1_0	0	0.691	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	0.fa	run19_G0_0	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	2.fa	run19_G7_3	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	2.fa	run19_G6_3	0	0.600	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+102	1.fa	run19_G3_1	1	1.000	0.fa-1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	2.fa	run28_G6_3	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	2.fa	run28_G5_3	0	0.511	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	3.fa	run28_G8_4	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	3.fa	run28_G17_4	0	0.458	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	4.fa	run28_G18_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	5.fa	run28_G20_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	4.fa	run28_G9_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	5.fa	run28_G11_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	6.fa	run28_G24_9	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	7.fa	run28_G28_11	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	7.fa	run28_G27_11	0	0.460	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	5.fa	run28_G13_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	5.fa	run28_G12_7	0	0.640	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+103	6.fa	run28_G23_9	0	0.221	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	2.fa	run68_G13_3	0	0.963	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	2.fa	run68_G12_3	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	2.fa	run68_G7_3	0	0.315	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	2.fa	run68_G9_3	0	0.176	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	3.fa	run68_G16_4	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	4.fa	run68_G17_5	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	4.fa	run68_G18_5	0	0.381	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	5.fa	run68_G22_7	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	5.fa	run68_G21_7	0	0.950	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	6.fa	run68_G26_9	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	6.fa	run68_G25_9	0	0.246	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	7.fa	run68_G29_11	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	0.fa	run68_G0_0	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	0.fa	run68_G1_0	0	0.659	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	0.fa	run68_G3_0	0	0.227	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+104	2.fa	run68_G8_3	0	0.065	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+105	2.fa	run25_G3_3	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	3.fa	run25_G4_4	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	4.fa	run25_G5_5	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	5.fa	run25_G7_7	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	5.fa	run25_G8_7	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	6.fa	run25_G11_9	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	7.fa	run25_G13_11	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	7.fa	run25_G14_11	0	0.813	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+105	0.fa	run25_G0_0	1	1.000	0.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	No
+106	2.fa	run32_G5_3	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	3.fa	run32_G6_4	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	3.fa	run32_G11_4	0	0.690	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	4.fa	run32_G12_5	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	5.fa	run32_G9_7	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	6.fa	run32_G21_9	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	7.fa	run32_G25_11	1	1.000	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	4.fa	run32_G7_5	0	0.648	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	6.fa	run32_G22_9	0	0.560	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	7.fa	run32_G26_11	0	0.460	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	5.fa	run32_G14_7	0	0.627	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	5.fa	run32_G17_7	0	0.610	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+106	5.fa	run32_G15_7	0	0.602	2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	2.fa	run97_G5_3	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	2.fa	run97_G7_3	0	0.301	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	3.fa	run97_G12_4	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	4.fa	run97_G13_5	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	5.fa	run97_G15_7	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	6.fa	run97_G18_9	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	6.fa	run97_G17_9	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	7.fa	run97_G21_11	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	1.fa	run97_G2_1	1	1.000	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+107	1.fa	run97_G1_1	0	0.122	1.fa-2.fa-3.fa-4.fa-5.fa-6.fa-7.fa	diff. numbers
+108	4.fa	run43_G18_5	1	1.000	3.fa-4.fa-5.fa	No
+108	5.fa	run43_G20_7	1	1.000	3.fa-4.fa-5.fa	No
+108	3.fa	run43_G15_4	1	1.000	3.fa-4.fa-5.fa	No
+109	4.fa	run51_G10_5	1	1.000	3.fa-4.fa-5.fa	No
+109	5.fa	run51_G13_7	1	1.000	3.fa-4.fa-5.fa	No
+109	3.fa	run51_G9_4	1	1.000	3.fa-4.fa-5.fa	No
+110	4.fa	run44_G11_5	1	1.000	3.fa-4.fa-5.fa	No
+110	5.fa	run44_G13_7	1	1.000	3.fa-4.fa-5.fa	No
+110	3.fa	run44_G10_4	1	1.000	3.fa-4.fa-5.fa	No
+111	4.fa	run38_G9_5	1	1.000	3.fa-4.fa-5.fa	No
+111	5.fa	run38_G11_7	1	1.000	3.fa-4.fa-5.fa	No
+111	3.fa	run38_G8_4	1	1.000	3.fa-4.fa-5.fa	No
+112	4.fa	run33_G13_5	1	1.000	3.fa-4.fa-5.fa	No
+112	5.fa	run33_G15_7	1	1.000	3.fa-4.fa-5.fa	No
+112	3.fa	run33_G12_4	1	1.000	3.fa-4.fa-5.fa	No
+113	4.fa	run60_G9_5	1	1.000	3.fa-4.fa-5.fa	No
+113	5.fa	run60_G11_7	1	1.000	3.fa-4.fa-5.fa	No
+113	3.fa	run60_G8_4	1	1.000	3.fa-4.fa-5.fa	No
+114	4.fa	run10_G23_5	1	1.000	3.fa-4.fa-5.fa	No
+114	5.fa	run10_G25_7	1	1.000	3.fa-4.fa-5.fa	No
+114	3.fa	run10_G22_4	1	1.000	3.fa-4.fa-5.fa	No
