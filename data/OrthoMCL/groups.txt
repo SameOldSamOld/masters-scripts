@@ -1,0 +1,122 @@
+cluster1000: 3|run24_G10_4 3|run24_G25_4 0|run24_G0_0 0|run24_G3_0 0|run24_G4_0 6|run24_G15_9 6|run24_G16_9 6|run24_G31_9 6|run24_G30_9 6|run24_G18_9 6|run24_G20_9 6|run24_G19_9 1|run24_G1_1 1|run24_G6_1 5|run24_G13_7 5|run24_G28_7 4|run24_G11_5 4|run24_G26_5 7|run24_G35_11 2|run24_G9_3
+cluster1001: 3|run93_G16_4 3|run93_G23_4 3|run93_G24_4 0|run93_G0_0 0|run93_G1_0 2|run93_G10_3 2|run93_G9_3 2|run93_G12_3 2|run93_G14_3 1|run93_G3_1 1|run93_G4_1 1|run93_G6_1 5|run93_G21_7 5|run93_G30_7 4|run93_G17_5 4|run93_G18_5 4|run93_G27_5 4|run93_G26_5 6|run93_G33_9 7|run93_G35_11
+cluster1002: 0|run84_G0_0 0|run84_G1_0 0|run84_G4_0 0|run84_G3_0 0|run84_G7_0 0|run84_G13_0 6|run84_G29_9 6|run84_G30_9 7|run84_G33_11 7|run84_G34_11 2|run84_G19_3 2|run84_G20_3 2|run84_G21_3 1|run84_G10_1 1|run84_G9_1 1|run84_G15_1 1|run84_G14_1 3|run84_G24_4 4|run84_G25_5 5|run84_G27_7
+cluster1003: 3|run01_G18_4 3|run01_G21_4 3|run01_G19_4 0|run01_G0_0 0|run01_G8_0 0|run01_G5_0 0|run01_G6_0 0|run01_G2_0 0|run01_G1_0 2|run01_G15_3 2|run01_G16_3 1|run01_G11_1 1|run01_G12_1 5|run01_G25_7 5|run01_G26_7 4|run01_G23_5 6|run01_G29_9 7|run01_G31_11
+cluster1004: 3|run15_G21_4 3|run15_G8_4 6|run15_G17_9 6|run15_G18_9 7|run15_G29_11 7|run15_G30_11 7|run15_G31_11 2|run15_G3_3 2|run15_G6_3 2|run15_G4_3 5|run15_G13_7 5|run15_G14_7 5|run15_G24_7 4|run15_G10_5 4|run15_G9_5 4|run15_G22_5 6|run15_G26_9 1|run15_G1_1
+cluster1005: 3|run27_G20_4 3|run27_G25_4 2|run27_G17_3 2|run27_G18_3 1|run27_G1_1 1|run27_G3_1 1|run27_G2_1 1|run27_G8_1 1|run27_G9_1 1|run27_G10_1 5|run27_G23_7 5|run27_G28_7 5|run27_G29_7 4|run27_G21_5 4|run27_G26_5 7|run27_G35_11 6|run27_G33_9 0|run27_G0_0
+cluster1006: 3|run36_G16_4 3|run36_G21_4 3|run36_G26_4 0|run36_G0_0 0|run36_G1_0 2|run36_G12_3 2|run36_G13_3 1|run36_G3_1 1|run36_G4_1 1|run36_G6_1 5|run36_G19_7 5|run36_G24_7 5|run36_G29_7 4|run36_G17_5 4|run36_G22_5 4|run36_G27_5 7|run36_G35_11 6|run36_G33_9
+cluster1007: 3|run40_G14_4 3|run40_G19_4 0|run40_G0_0 0|run40_G1_0 0|run40_G7_0 0|run40_G4_0 0|run40_G3_0 1|run40_G10_1 1|run40_G9_1 5|run40_G17_7 5|run40_G26_7 4|run40_G15_5 4|run40_G21_5 4|run40_G22_5 4|run40_G20_5 7|run40_G31_11 6|run40_G29_9 2|run40_G13_3
+cluster1008: 3|run61_G23_4 3|run61_G8_4 0|run61_G0_0 0|run61_G1_0 6|run61_G13_9 6|run61_G14_9 6|run61_G15_9 2|run61_G5_3 2|run61_G6_3 2|run61_G22_3 5|run61_G11_7 5|run61_G28_7 4|run61_G24_5 4|run61_G25_5 4|run61_G9_5 7|run61_G32_11 6|run61_G30_9 1|run61_G3_1
+cluster1009: 3|run71_G12_4 3|run71_G21_4 0|run71_G0_0 0|run71_G1_0 2|run71_G5_3 2|run71_G8_3 2|run71_G7_3 5|run71_G17_7 5|run71_G18_7 5|run71_G28_7 4|run71_G13_5 4|run71_G14_5 4|run71_G23_5 4|run71_G25_5 4|run71_G22_5 6|run71_G31_9 7|run71_G33_11 1|run71_G3_1
+cluster1010: 3|run88_G12_4 3|run88_G23_4 0|run88_G0_0 0|run88_G1_0 0|run88_G3_0 0|run88_G4_0 2|run88_G10_3 2|run88_G9_3 5|run88_G21_7 5|run88_G26_7 4|run88_G13_5 4|run88_G17_5 4|run88_G16_5 4|run88_G14_5 4|run88_G24_5 7|run88_G31_11 6|run88_G29_9 1|run88_G7_1
+cluster1011: 0|run05_G0_0 0|run05_G2_0 0|run05_G1_0 0|run05_G7_0 0|run05_G8_0 6|run05_G25_9 6|run05_G26_9 7|run05_G29_11 7|run05_G30_11 2|run05_G15_3 2|run05_G16_3 2|run05_G18_3 1|run05_G10_1 1|run05_G11_1 1|run05_G5_1 3|run05_G20_4 4|run05_G21_5 5|run05_G23_7
+cluster1012: 0|run41_G0_0 0|run41_G2_0 0|run41_G1_0 0|run41_G6_0 0|run41_G5_0 6|run41_G19_9 6|run41_G20_9 7|run41_G23_11 7|run41_G28_11 7|run41_G29_11 7|run41_G25_11 7|run41_G24_11 2|run41_G11_3 2|run41_G12_3 3|run41_G14_4 5|run41_G17_7 4|run41_G15_5 1|run41_G9_1
+cluster1013: 6|run16_G25_9 6|run16_G26_9 6|run16_G28_9 7|run16_G31_11 7|run16_G32_11 1|run16_G2_1 1|run16_G4_1 1|run16_G7_1 1|run16_G3_1 1|run16_G10_1 3|run16_G14_4 4|run16_G15_5 5|run16_G17_7 3|run16_G19_4 5|run16_G22_7 4|run16_G20_5 0|run16_G0_0 2|run16_G13_3
+cluster1014: 3|run08_G17_4 3|run08_G18_4 3|run08_G6_4 0|run08_G0_0 0|run08_G1_0 6|run08_G11_9 6|run08_G29_9 6|run08_G24_9 6|run08_G25_9 6|run08_G26_9 5|run08_G22_7 5|run08_G9_7 4|run08_G20_5 4|run08_G7_5 7|run08_G32_11 1|run08_G3_1 2|run08_G16_3
+cluster1015: 3|run12_G10_4 3|run12_G17_4 7|run12_G25_11 7|run12_G26_11 7|run12_G28_11 2|run12_G3_3 2|run12_G5_3 2|run12_G4_3 2|run12_G8_3 5|run12_G13_7 5|run12_G14_7 5|run12_G20_7 4|run12_G11_5 4|run12_G18_5 6|run12_G23_9 0|run12_G0_0 1|run12_G1_1
+cluster1016: 3|run14_G12_4 3|run14_G17_4 3|run14_G18_4 7|run14_G29_11 7|run14_G32_11 7|run14_G30_11 7|run14_G31_11 1|run14_G3_1 1|run14_G4_1 5|run14_G15_7 5|run14_G22_7 5|run14_G23_7 4|run14_G13_5 4|run14_G20_5 6|run14_G27_9 0|run14_G0_0 2|run14_G8_3
+cluster1017: 3|run28_G17_4 3|run28_G8_4 0|run28_G0_0 0|run28_G1_0 6|run28_G23_9 6|run28_G24_9 7|run28_G27_11 7|run28_G28_11 2|run28_G5_3 2|run28_G6_3 5|run28_G11_7 5|run28_G13_7 5|run28_G12_7 5|run28_G20_7 4|run28_G18_5 4|run28_G9_5 1|run28_G3_1
+cluster1018: 3|run37_G4_4 3|run37_G9_4 3|run37_G18_4 3|run37_G19_4 5|run37_G16_7 5|run37_G23_7 5|run37_G7_7 4|run37_G10_5 4|run37_G12_5 4|run37_G11_5 4|run37_G5_5 4|run37_G21_5 7|run37_G29_11 6|run37_G27_9 0|run37_G0_0 2|run37_G3_3 1|run37_G1_1
+cluster1019: 3|run69_G16_4 3|run69_G21_4 0|run69_G0_0 0|run69_G1_0 0|run69_G4_0 0|run69_G3_0 0|run69_G7_0 2|run69_G11_3 2|run69_G13_3 2|run69_G12_3 5|run69_G19_7 5|run69_G24_7 4|run69_G17_5 4|run69_G22_5 7|run69_G29_11 6|run69_G27_9 1|run69_G9_1
+cluster1020: 3|run78_G8_4 3|run78_G9_4 3|run78_G11_4 6|run78_G17_9 6|run78_G18_9 6|run78_G26_9 1|run78_G1_1 1|run78_G2_1 1|run78_G3_1 5|run78_G15_7 5|run78_G24_7 4|run78_G13_5 4|run78_G22_5 7|run78_G29_11 3|run78_G21_4 0|run78_G0_0 2|run78_G7_3
+cluster1021: 0|run10_G0_0 0|run10_G2_0 0|run10_G1_0 0|run10_G8_0 0|run10_G7_0 0|run10_G13_0 7|run10_G29_11 7|run10_G30_11 2|run10_G19_3 2|run10_G20_3 1|run10_G10_1 1|run10_G15_1 1|run10_G14_1 3|run10_G22_4 4|run10_G23_5 5|run10_G25_7 6|run10_G27_9
+cluster1022: 0|run18_G0_0 0|run18_G1_0 6|run18_G19_9 6|run18_G21_9 6|run18_G20_9 6|run18_G26_9 6|run18_G23_9 2|run18_G7_3 2|run18_G8_3 2|run18_G9_3 1|run18_G3_1 1|run18_G4_1 5|run18_G15_7 5|run18_G16_7 3|run18_G12_4 4|run18_G13_5 7|run18_G29_11
+cluster1023: 0|run59_G0_0 0|run59_G4_0 0|run59_G2_0 0|run59_G1_0 0|run59_G5_0 7|run59_G27_11 7|run59_G28_11 2|run59_G11_3 2|run59_G12_3 2|run59_G14_3 2|run59_G13_3 5|run59_G21_7 5|run59_G22_7 3|run59_G18_4 4|run59_G19_5 6|run59_G25_9 1|run59_G9_1
+cluster1024: 0|run64_G0_0 0|run64_G10_0 0|run64_G5_0 0|run64_G6_0 0|run64_G7_0 6|run64_G21_9 6|run64_G24_9 6|run64_G22_9 7|run64_G27_11 7|run64_G28_11 1|run64_G1_1 1|run64_G2_1 1|run64_G12_1 3|run64_G16_4 4|run64_G17_5 5|run64_G19_7 2|run64_G15_3
+cluster1025: 0|run68_G0_0 0|run68_G1_0 0|run68_G3_0 6|run68_G25_9 6|run68_G26_9 2|run68_G7_3 2|run68_G9_3 2|run68_G8_3 2|run68_G12_3 2|run68_G13_3 5|run68_G21_7 5|run68_G22_7 4|run68_G17_5 4|run68_G18_5 3|run68_G16_4 7|run68_G29_11 1|run68_G5_1
+cluster1026: 0|run74_G0_0 0|run74_G3_0 6|run74_G23_9 6|run74_G24_9 7|run74_G27_11 7|run74_G28_11 2|run74_G10_3 2|run74_G9_3 2|run74_G12_3 1|run74_G1_1 1|run74_G4_1 1|run74_G5_1 5|run74_G19_7 5|run74_G20_7 4|run74_G15_5 4|run74_G16_5 3|run74_G14_4
+cluster1027: 0|run77_G0_0 0|run77_G1_0 0|run77_G7_0 0|run77_G6_0 0|run77_G11_0 0|run77_G13_0 0|run77_G5_0 0|run77_G10_0 7|run77_G27_11 7|run77_G28_11 1|run77_G16_1 1|run77_G3_1 3|run77_G20_4 4|run77_G21_5 5|run77_G23_7 6|run77_G25_9 2|run77_G19_3
+cluster1028: 0|run82_G0_0 0|run82_G1_0 0|run82_G3_0 6|run82_G27_9 6|run82_G28_9 6|run82_G31_9 6|run82_G30_9 1|run82_G12_1 1|run82_G13_1 1|run82_G5_1 1|run82_G14_1 4|run82_G21_5 4|run82_G22_5 3|run82_G20_4 5|run82_G25_7 7|run82_G35_11 2|run82_G19_3
+cluster1029: 7|run89_G27_11 7|run89_G28_11 7|run89_G30_11 1|run89_G1_1 1|run89_G4_1 1|run89_G7_1 1|run89_G6_1 1|run89_G8_1 1|run89_G11_1 1|run89_G13_1 5|run89_G21_7 5|run89_G22_7 3|run89_G18_4 4|run89_G19_5 6|run89_G25_9 0|run89_G0_0 2|run89_G17_3
+cluster1030: 3|run19_G10_4 3|run19_G17_4 0|run19_G0_0 0|run19_G1_0 7|run19_G25_11 7|run19_G26_11 2|run19_G6_3 2|run19_G7_3 5|run19_G15_7 5|run19_G20_7 4|run19_G11_5 4|run19_G12_5 4|run19_G18_5 6|run19_G23_9 1|run19_G3_1 2|run19_G5_3
+cluster1031: 3|run29_G14_4 3|run29_G19_4 0|run29_G1_0 0|run29_G4_0 0|run29_G3_0 6|run29_G25_9 6|run29_G26_9 2|run29_G10_3 2|run29_G9_3 2|run29_G12_3 5|run29_G17_7 5|run29_G22_7 4|run29_G15_5 4|run29_G20_5 7|run29_G29_11 1|run29_G7_1
+cluster1032: 3|run55_G10_4 3|run55_G13_4 3|run55_G11_4 0|run55_G0_0 0|run55_G2_0 0|run55_G1_0 7|run55_G21_11 7|run55_G26_11 7|run55_G22_11 7|run55_G23_11 2|run55_G7_3 2|run55_G8_3 4|run55_G15_5 5|run55_G17_7 6|run55_G19_9 1|run55_G5_1
+cluster1033: 3|run83_G10_4 3|run83_G11_4 6|run83_G17_9 6|run83_G20_9 6|run83_G18_9 6|run83_G19_9 6|run83_G24_9 2|run83_G3_3 2|run83_G5_3 2|run83_G7_3 2|run83_G4_3 4|run83_G13_5 5|run83_G15_7 7|run83_G27_11 0|run83_G0_0 1|run83_G1_1
+cluster1034: 0|run06_G0_0 0|run06_G1_0 7|run06_G27_11 7|run06_G28_11 1|run06_G3_1 1|run06_G5_1 1|run06_G4_1 5|run06_G13_7 5|run06_G14_7 5|run06_G20_7 5|run06_G21_7 4|run06_G11_5 4|run06_G18_5 3|run06_G10_4 6|run06_G25_9 2|run06_G9_3
+cluster1035: 0|run09_G0_0 0|run09_G8_0 0|run09_G4_0 0|run09_G6_0 0|run09_G3_0 6|run09_G27_9 6|run09_G28_9 2|run09_G15_3 2|run09_G16_3 2|run09_G18_3 2|run09_G20_3 3|run09_G22_4 5|run09_G25_7 4|run09_G23_5 7|run09_G31_11 1|run09_G1_1
+cluster1036: 6|run99_G17_9 6|run99_G18_9 6|run99_G21_9 6|run99_G19_9 6|run99_G24_9 1|run99_G1_1 1|run99_G5_1 1|run99_G4_1 1|run99_G7_1 1|run99_G2_1 3|run99_G12_4 4|run99_G13_5 5|run99_G15_7 7|run99_G27_11 0|run99_G0_0 2|run99_G11_3
+cluster1037: 3|run26_G16_4 3|run26_G21_4 3|run26_G22_4 6|run26_G29_9 6|run26_G30_9 1|run26_G1_1 1|run26_G2_1 5|run26_G19_7 5|run26_G26_7 4|run26_G17_5 4|run26_G24_5 7|run26_G33_11 0|run26_G5_0 1|run26_G10_1 2|run26_G14_3
+cluster1038: 3|run30_G25_4 3|run30_G6_4 0|run30_G0_0 0|run30_G1_0 2|run30_G22_3 2|run30_G23_3 2|run30_G5_3 5|run30_G10_7 5|run30_G29_7 5|run30_G28_7 4|run30_G26_5 4|run30_G7_5 6|run30_G32_9 7|run30_G34_11 1|run30_G3_1
+cluster1039: 3|run86_G12_4 3|run86_G13_4 0|run86_G0_0 0|run86_G1_0 0|run86_G3_0 6|run86_G19_9 6|run86_G20_9 6|run86_G21_9 7|run86_G25_11 7|run86_G26_11 2|run86_G10_3 2|run86_G9_3 4|run86_G15_5 5|run86_G17_7 1|run86_G7_1
+cluster1040: 0|run02_G0_0 0|run02_G1_0 6|run02_G23_9 6|run02_G24_9 2|run02_G15_3 2|run02_G16_3 1|run02_G3_1 1|run02_G4_1 1|run02_G9_1 1|run02_G8_1 1|run02_G10_1 3|run02_G18_4 5|run02_G21_7 4|run02_G19_5 7|run02_G27_11
+cluster1041: 0|run17_G0_0 0|run17_G3_0 7|run17_G15_11 7|run17_G16_11 7|run17_G18_11 7|run17_G23_11 7|run17_G21_11 7|run17_G20_11 1|run17_G1_1 1|run17_G4_1 3|run17_G8_4 4|run17_G9_5 5|run17_G11_7 6|run17_G13_9 2|run17_G7_3
+cluster1042: 0|run22_G0_0 0|run22_G4_0 0|run22_G7_0 0|run22_G6_0 0|run22_G2_0 0|run22_G1_0 2|run22_G15_3 2|run22_G16_3 1|run22_G11_1 1|run22_G12_1 3|run22_G18_4 4|run22_G19_5 6|run22_G23_9 5|run22_G21_7 7|run22_G25_11
+cluster1043: 0|run48_G7_0 0|run48_G8_0 7|run48_G29_11 7|run48_G30_11 2|run48_G17_3 2|run48_G18_3 1|run48_G1_1 1|run48_G4_1 4|run48_G21_5 4|run48_G22_5 3|run48_G20_4 5|run48_G25_7 6|run48_G27_9 0|run48_G0_0 0|run48_G3_0
+cluster1044: 0|run58_G0_0 0|run58_G1_0 6|run58_G19_9 6|run58_G20_9 7|run58_G23_11 7|run58_G24_11 7|run58_G25_11 2|run58_G7_3 2|run58_G8_3 2|run58_G10_3 2|run58_G12_3 3|run58_G14_4 5|run58_G17_7 4|run58_G15_5 1|run58_G5_1
+cluster1045: 6|run44_G17_9 6|run44_G18_9 6|run44_G19_9 6|run44_G22_9 2|run44_G7_3 2|run44_G8_3 1|run44_G1_1 1|run44_G3_1 1|run44_G2_1 5|run44_G13_7 5|run44_G14_7 3|run44_G10_4 4|run44_G11_5 7|run44_G25_11 0|run44_G0_0
+cluster1046: 6|run57_G25_9 6|run57_G27_9 6|run57_G26_9 7|run57_G31_11 7|run57_G32_11 2|run57_G17_3 2|run57_G18_3 1|run57_G1_1 1|run57_G2_1 1|run57_G3_1 1|run57_G5_1 3|run57_G20_4 4|run57_G21_5 5|run57_G23_7 0|run57_G0_0
+cluster1047: 3|run52_G11_4 3|run52_G6_4 7|run52_G19_11 7|run52_G21_11 7|run52_G20_11 2|run52_G3_3 2|run52_G4_3 5|run52_G14_7 5|run52_G9_7 4|run52_G12_5 4|run52_G7_5 6|run52_G17_9 0|run52_G0_0 1|run52_G1_1
+cluster1048: 3|run53_G14_4 3|run53_G15_4 0|run53_G0_0 0|run53_G5_0 1|run53_G1_1 1|run53_G2_1 1|run53_G9_1 1|run53_G7_1 1|run53_G6_1 4|run53_G17_5 5|run53_G19_7 6|run53_G21_9 7|run53_G23_11 2|run53_G13_3
+cluster1049: 3|run56_G13_4 3|run56_G8_4 6|run56_G19_9 6|run56_G20_9 2|run56_G5_3 2|run56_G6_3 1|run56_G1_1 1|run56_G2_1 5|run56_G11_7 5|run56_G16_7 4|run56_G14_5 4|run56_G9_5 7|run56_G28_11 0|run56_G0_0
+cluster1050: 0|run07_G10_0 0|run07_G4_0 6|run07_G29_9 6|run07_G30_9 2|run07_G15_3 2|run07_G16_3 2|run07_G18_3 2|run07_G20_3 2|run07_G22_3 3|run07_G24_4 4|run07_G25_5 5|run07_G27_7 7|run07_G33_11 1|run07_G11_1
+cluster1051: 0|run33_G0_0 0|run33_G3_0 6|run33_G17_9 6|run33_G18_9 7|run33_G21_11 7|run33_G22_11 1|run33_G1_1 1|run33_G4_1 1|run33_G7_1 1|run33_G5_1 3|run33_G12_4 4|run33_G13_5 5|run33_G15_7 2|run33_G11_3
+cluster1052: 0|run46_G0_0 0|run46_G1_0 0|run46_G2_0 0|run46_G5_0 6|run46_G17_9 6|run46_G18_9 6|run46_G20_9 2|run46_G10_3 2|run46_G9_3 3|run46_G12_4 4|run46_G13_5 5|run46_G15_7 7|run46_G23_11 1|run46_G7_1
+cluster1053: 0|run47_G0_0 0|run47_G4_0 0|run47_G1_0 0|run47_G2_0 1|run47_G16_1 1|run47_G18_1 1|run47_G17_1 4|run47_G27_5 4|run47_G28_5 3|run47_G26_4 6|run47_G33_9 5|run47_G31_7 7|run47_G35_11 2|run47_G25_3
+cluster1054: 0|run92_G0_0 0|run92_G3_0 6|run92_G15_9 6|run92_G17_9 6|run92_G16_9 7|run92_G21_11 7|run92_G22_11 1|run92_G1_1 1|run92_G5_1 1|run92_G4_1 3|run92_G10_4 4|run92_G11_5 5|run92_G13_7 2|run92_G9_3
+cluster1055: 0|run95_G0_0 0|run95_G1_0 2|run95_G5_3 2|run95_G6_3 2|run95_G9_3 2|run95_G7_3 2|run95_G10_3 2|run95_G11_3 2|run95_G15_3 3|run95_G18_4 4|run95_G19_5 5|run95_G21_7 7|run95_G25_11 6|run95_G23_9
+cluster1056: 6|run42_G19_9 6|run42_G20_9 2|run42_G7_3 2|run42_G8_3 1|run42_G1_1 1|run42_G2_1 1|run42_G3_1 5|run42_G13_7 5|run42_G15_7 5|run42_G14_7 3|run42_G10_4 4|run42_G11_5 7|run42_G23_11 0|run42_G0_0
+cluster1057: 6|run45_G17_9 6|run45_G19_9 6|run45_G18_9 2|run45_G5_3 2|run45_G6_3 2|run45_G8_3 2|run45_G10_3 1|run45_G1_1 1|run45_G2_1 3|run45_G12_4 4|run45_G13_5 5|run45_G15_7 7|run45_G23_11 0|run45_G0_0
+cluster1058: 7|run04_G27_11 7|run04_G29_11 7|run04_G28_11 4|run04_G11_5 4|run04_G12_5 3|run04_G10_4 5|run04_G15_7 3|run04_G19_4 4|run04_G20_5 5|run04_G22_7 6|run04_G24_9 0|run04_G5_0 1|run04_G6_1 2|run04_G9_3
+cluster1059: 3|run32_G11_4 3|run32_G6_4 6|run32_G21_9 6|run32_G22_9 7|run32_G25_11 7|run32_G26_11 5|run32_G14_7 5|run32_G17_7 5|run32_G15_7 5|run32_G9_7 4|run32_G12_5 4|run32_G7_5 2|run32_G5_3
+cluster1060: 3|run60_G15_4 3|run60_G16_4 0|run60_G0_0 0|run60_G1_0 6|run60_G13_9 6|run60_G23_9 6|run60_G22_9 2|run60_G5_3 2|run60_G6_3 4|run60_G18_5 5|run60_G20_7 7|run60_G27_11 1|run60_G3_1
+cluster1061: 0|run34_G0_0 0|run34_G1_0 0|run34_G3_0 2|run34_G13_3 2|run34_G14_3 1|run34_G7_1 1|run34_G8_1 1|run34_G9_1 3|run34_G16_4 5|run34_G19_7 4|run34_G17_5 6|run34_G21_9 7|run34_G23_11
+cluster1062: 0|run65_G0_0 0|run65_G3_0 7|run65_G19_11 7|run65_G20_11 1|run65_G1_1 1|run65_G4_1 1|run65_G5_1 4|run65_G11_5 4|run65_G12_5 3|run65_G10_4 5|run65_G15_7 6|run65_G17_9 2|run65_G9_3
+cluster1063: 0|run81_G0_0 0|run81_G2_0 0|run81_G1_0 7|run81_G17_11 7|run81_G22_11 7|run81_G18_11 7|run81_G19_11 3|run81_G10_4 5|run81_G13_7 4|run81_G11_5 6|run81_G15_9 1|run81_G5_1 2|run81_G7_3
+cluster1064: 3|run39_G6_4 3|run39_G7_4 7|run39_G19_11 7|run39_G20_11 7|run39_G21_11 5|run39_G13_7 5|run39_G14_7 4|run39_G10_5 4|run39_G9_5 6|run39_G17_9 0|run39_G0_0 2|run39_G5_3
+cluster1065: 3|run62_G11_4 3|run62_G6_4 2|run62_G3_3 2|run62_G4_3 5|run62_G14_7 5|run62_G9_7 4|run62_G12_5 4|run62_G7_5 7|run62_G19_11 6|run62_G17_9 0|run62_G0_0 1|run62_G1_1
+cluster1066: 3|run70_G11_4 3|run70_G8_4 0|run70_G0_0 0|run70_G1_0 1|run70_G3_1 1|run70_G4_1 4|run70_G12_5 4|run70_G9_5 5|run70_G15_7 6|run70_G17_9 7|run70_G19_11 2|run70_G7_3
+cluster1067: 3|run98_G10_4 3|run98_G11_4 0|run98_G0_0 0|run98_G4_0 0|run98_G1_0 0|run98_G2_0 4|run98_G13_5 5|run98_G15_7 6|run98_G17_9 7|run98_G19_11 1|run98_G7_1 2|run98_G9_3
+cluster1068: 0|run20_G0_0 0|run20_G1_0 0|run20_G5_0 6|run20_G15_9 6|run20_G16_9 1|run20_G3_1 1|run20_G6_1 3|run20_G10_4 4|run20_G11_5 5|run20_G13_7 7|run20_G19_11 2|run20_G9_3
+cluster1069: 0|run49_G0_0 0|run49_G3_0 0|run49_G1_0 7|run49_G24_11 7|run49_G25_11 4|run49_G10_5 4|run49_G11_5 3|run49_G8_4 6|run49_G17_9 5|run49_G15_7 2|run49_G7_3 1|run49_G5_1
+cluster1070: 0|run73_G0_0 0|run73_G1_0 1|run73_G3_1 1|run73_G4_1 1|run73_G6_1 1|run73_G7_1 3|run73_G12_4 4|run73_G13_5 5|run73_G15_7 7|run73_G19_11 6|run73_G17_9 2|run73_G11_3
+cluster1071: 6|run76_G18_9 6|run76_G19_9 2|run76_G5_3 2|run76_G7_3 1|run76_G1_1 1|run76_G2_1 5|run76_G13_7 5|run76_G14_7 3|run76_G10_4 4|run76_G11_5 7|run76_G23_11 0|run76_G0_0
+cluster1072: 7|run00_G13_11 7|run00_G14_11 7|run00_G16_11 7|run00_G17_11 2|run00_G3_3 2|run00_G4_3 3|run00_G6_4 5|run00_G9_7 4|run00_G7_5 6|run00_G11_9 0|run00_G0_0 1|run00_G1_1
+cluster1073: 7|run96_G27_11 7|run96_G28_11 2|run96_G10_3 2|run96_G9_3 2|run96_G12_3 1|run96_G5_1 1|run96_G6_1 3|run96_G14_4 4|run96_G15_5 5|run96_G17_7 6|run96_G25_9 0|run96_G3_0
+cluster1074: 2|run23_G3_3 2|run23_G4_3 2|run23_G9_3 2|run23_G6_3 2|run23_G7_3 3|run23_G12_4 4|run23_G13_5 5|run23_G15_7 6|run23_G17_9 7|run23_G21_11 0|run23_G0_0 1|run23_G1_1
+cluster1075: 3|run66_G6_4 3|run66_G7_4 0|run66_G0_0 0|run66_G1_0 6|run66_G13_9 6|run66_G14_9 4|run66_G9_5 5|run66_G11_7 7|run66_G17_11 1|run66_G3_1 2|run66_G5_3
+cluster1076: 3|run75_G14_4 3|run75_G15_4 6|run75_G25_9 6|run75_G26_9 4|run75_G17_5 4|run75_G19_5 4|run75_G18_5 5|run75_G23_7 7|run75_G29_11 0|run75_G0_0 1|run75_G1_1
+cluster1077: 0|run54_G0_0 0|run54_G1_0 0|run54_G2_0 1|run54_G5_1 1|run54_G6_1 1|run54_G8_1 3|run54_G14_4 4|run54_G15_5 5|run54_G17_7 6|run54_G19_9 7|run54_G21_11
+cluster1078: 0|run90_G0_0 0|run90_G1_0 2|run90_G7_3 2|run90_G8_3 2|run90_G10_3 3|run90_G15_4 4|run90_G16_5 5|run90_G19_7 6|run90_G21_9 7|run90_G23_11 1|run90_G5_1
+cluster1079: 7|run94_G13_11 7|run94_G16_11 7|run94_G14_11 2|run94_G3_3 2|run94_G4_3 3|run94_G6_4 4|run94_G7_5 5|run94_G9_7 6|run94_G11_9 0|run94_G0_0 1|run94_G1_1
+cluster1080: 2|run11_G5_3 2|run11_G8_3 2|run11_G6_3 1|run11_G1_1 1|run11_G2_1 3|run11_G10_4 4|run11_G11_5 5|run11_G13_7 7|run11_G17_11 6|run11_G15_9 0|run11_G0_0
+cluster1081: 2|run67_G6_3 2|run67_G7_3 2|run67_G9_3 1|run67_G1_1 1|run67_G2_1 3|run67_G12_4 5|run67_G15_7 4|run67_G13_5 6|run67_G17_9 7|run67_G19_11 0|run67_G0_0
+cluster1082: 1|run43_G1_1 1|run43_G2_1 1|run43_G4_1 5|run43_G11_7 5|run43_G12_7 3|run43_G8_4 4|run43_G9_5 6|run43_G23_9 7|run43_G25_11 0|run43_G0_0 2|run43_G7_3
+cluster1083: 1|run72_G1_1 1|run72_G2_1 1|run72_G5_1 1|run72_G4_1 3|run72_G10_4 5|run72_G13_7 4|run72_G11_5 6|run72_G15_9 7|run72_G17_11 0|run72_G0_0 2|run72_G9_3
+cluster1084: 0|run13_G0_0 0|run13_G3_0 1|run13_G1_1 1|run13_G4_1 3|run13_G8_4 4|run13_G9_5 5|run13_G11_7 7|run13_G15_11 6|run13_G13_9 2|run13_G7_3
+cluster1085: 0|run38_G0_0 0|run38_G1_0 0|run38_G3_0 3|run38_G8_4 4|run38_G9_5 5|run38_G11_7 7|run38_G16_11 6|run38_G13_9 2|run38_G7_3 1|run38_G5_1
+cluster1086: 0|run80_G0_0 0|run80_G2_0 0|run80_G1_0 3|run80_G8_4 4|run80_G9_5 5|run80_G11_7 6|run80_G16_9 7|run80_G19_11 2|run80_G7_3 1|run80_G5_1
+cluster1087: 6|run97_G17_9 6|run97_G18_9 2|run97_G5_3 2|run97_G7_3 3|run97_G12_4 4|run97_G13_5 5|run97_G15_7 7|run97_G21_11 0|run97_G0_0 1|run97_G2_1
+cluster1088: 7|run25_G13_11 7|run25_G14_11 5|run25_G7_7 5|run25_G8_7 3|run25_G4_4 4|run25_G5_5 6|run25_G11_9 0|run25_G0_0 2|run25_G3_3 1|run25_G1_1
+cluster1089: 2|run35_G3_3 2|run35_G4_3 2|run35_G6_3 3|run35_G8_4 4|run35_G9_5 7|run35_G15_11 5|run35_G11_7 6|run35_G13_9 0|run35_G0_0 1|run35_G1_1
+cluster1090: 2|run63_G3_3 2|run63_G4_3 2|run63_G6_3 3|run63_G14_4 4|run63_G15_5 5|run63_G17_7 6|run63_G19_9 7|run63_G21_11 0|run63_G0_0 1|run63_G1_1
+cluster1091: 1|run31_G1_1 1|run31_G4_1 1|run31_G2_1 3|run31_G8_4 4|run31_G9_5 5|run31_G11_7 7|run31_G17_11 6|run31_G14_9 0|run31_G0_0 2|run31_G7_3
+cluster1092: 1|run87_G1_1 1|run87_G2_1 1|run87_G4_1 3|run87_G8_4 4|run87_G9_5 5|run87_G11_7 6|run87_G13_9 7|run87_G15_11 0|run87_G0_0 2|run87_G7_3
+cluster1093: 0|run21_G0_0 0|run21_G3_0 3|run21_G8_4 4|run21_G9_5 5|run21_G11_7 6|run21_G13_9 7|run21_G15_11 1|run21_G5_1 2|run21_G7_3
+cluster1094: 6|run91_G15_9 6|run91_G16_9 3|run91_G4_4 5|run91_G7_7 4|run91_G5_5 7|run91_G21_11 0|run91_G0_0 1|run91_G1_1 2|run91_G3_3
+cluster1095: 2|run03_G3_3 2|run03_G4_3 3|run03_G6_4 4|run03_G7_5 5|run03_G9_7 6|run03_G11_9 7|run03_G13_11 0|run03_G0_0 1|run03_G1_1
+cluster1096: 2|run85_G3_3 2|run85_G4_3 3|run85_G6_4 4|run85_G7_5 5|run85_G9_7 7|run85_G13_11 6|run85_G11_9 0|run85_G0_0 1|run85_G1_1
+cluster1097: 1|run50_G1_1 1|run50_G2_1 3|run50_G6_4 4|run50_G7_5 5|run50_G9_7 7|run50_G13_11 6|run50_G11_9 0|run50_G0_0 2|run50_G5_3
+cluster1098: 3|run79_G4_4 4|run79_G5_5 5|run79_G7_7 7|run79_G11_11 6|run79_G9_9 0|run79_G0_0 1|run79_G1_1 2|run79_G3_3
+cluster1099: 2|run51_G3_3 2|run51_G4_3 0|run51_G0_0 1|run51_G1_1 6|run51_G15_9 7|run51_G17_11
+cluster1100: 2|run75_G3_3 2|run75_G7_3 2|run75_G4_3 2|run75_G5_3 2|run75_G10_3 2|run75_G11_3
+cluster1101: 3|run51_G6_4 3|run51_G9_4 4|run51_G10_5 4|run51_G7_5 5|run51_G13_7
+cluster1102: 1|run47_G8_1 1|run47_G9_1 1|run47_G11_1 1|run47_G12_1
+cluster1103: 1|run57_G10_1 1|run57_G12_1 1|run57_G11_1 0|run57_G9_0
+cluster1104: 3|run91_G9_4 4|run91_G10_5 5|run91_G12_7 6|run91_G18_9
+cluster1105: 0|run32_G0_0 0|run32_G1_0 1|run32_G3_1
+cluster1106: 0|run82_G7_0 0|run82_G8_0 0|run82_G10_0
+cluster1107: 7|run30_G15_11 7|run30_G16_11 7|run30_G18_11
+cluster1108: 7|run49_G27_11 7|run49_G28_11 7|run49_G30_11
+cluster1109: 7|run56_G23_11 7|run56_G24_11 7|run56_G26_11
+cluster1110: 2|run63_G10_3 2|run63_G9_3 2|run63_G8_3
+cluster1111: 1|run48_G10_1 1|run48_G12_1 1|run48_G11_1
+cluster1112: 3|run43_G15_4 5|run43_G20_7 4|run43_G18_5
+cluster1113: 3|run60_G8_4 5|run60_G11_7 4|run60_G9_5
+cluster1114: 3|run96_G19_4 4|run96_G20_5 5|run96_G22_7
+cluster1115: 0|run26_G6_0 0|run26_G7_0
+cluster1116: 6|run49_G18_9 6|run49_G19_9
+cluster1117: 2|run36_G10_3 2|run36_G9_3
+cluster1118: 1|run04_G1_1 1|run04_G2_1
+cluster1119: 1|run07_G6_1 1|run07_G7_1
+cluster1120: 2|run54_G11_3 2|run54_G12_3
+cluster1121: 1|run39_G1_1 1|run39_G2_1
